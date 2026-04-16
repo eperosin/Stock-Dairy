@@ -1,0 +1,127 @@
+[
+  {
+    "id": "mnvdz4w97sna",
+    "name": "SK하이닉스",
+    "ticker": "000660",
+    "qty": 109,
+    "avgPrice": 914345,
+    "currentPrice": 1117000,
+    "priceStatus": "live"
+  },
+  {
+    "id": "mnve37bdz0zf",
+    "name": "삼양식품",
+    "ticker": "003230",
+    "qty": 25,
+    "avgPrice": 1215601.32,
+    "currentPrice": 1281000,
+    "priceStatus": "live",
+    "currency": "KRW"
+  },
+  {
+    "id": "mnve3qyx2qaa",
+    "name": "TIME Korea플러스배당액티브",
+    "ticker": "441800",
+    "qty": 2500,
+    "avgPrice": 26317.1664,
+    "currentPrice": 28935,
+    "priceStatus": "live",
+    "currency": "KRW"
+  },
+  {
+    "id": "mnve46mlnq76",
+    "name": "삼성전자우",
+    "ticker": "005935",
+    "qty": 450,
+    "avgPrice": 127356,
+    "currentPrice": 142200,
+    "priceStatus": "live"
+  },
+  {
+    "id": "mnve4jt1wkfm",
+    "name": "KODEX 증권",
+    "ticker": "102970",
+    "qty": 1824,
+    "avgPrice": 25912,
+    "currentPrice": 29220,
+    "priceStatus": "live"
+  },
+  {
+    "id": "mnve59r9p1bg",
+    "name": "에스앤에스텍",
+    "ticker": "101490",
+    "qty": 157,
+    "avgPrice": 89422.10191082803,
+    "currentPrice": 95300,
+    "priceStatus": "live",
+    "currency": "KRW"
+  },
+  {
+    "id": "mnve5pfq83hc",
+    "name": "ACE 원자력TOP10",
+    "ticker": "433500",
+    "qty": 169,
+    "avgPrice": 62726,
+    "currentPrice": 74000,
+    "priceStatus": "live"
+  },
+  {
+    "id": "mnve64wsqdnw",
+    "name": "TIGER 지주회사",
+    "ticker": "307520",
+    "qty": 190,
+    "avgPrice": 21082,
+    "currentPrice": 21100,
+    "priceStatus": "live"
+  },
+  {
+    "id": "mnvehm5bhuto",
+    "name": "테슬라",
+    "ticker": "TSLA",
+    "currency": "USD",
+    "qty": 39,
+    "avgPrice": 278.753,
+    "currentPrice": 352.42,
+    "priceStatus": "live"
+  },
+  {
+    "id": "mnveic9tc03v",
+    "name": "SCHD",
+    "ticker": "SCHD",
+    "currency": "USD",
+    "qty": 346,
+    "avgPrice": 28.946,
+    "currentPrice": 30.66,
+    "priceStatus": "live"
+  },
+  {
+    "id": "mnveitp0yg4c",
+    "name": "애플",
+    "ticker": "AAPL",
+    "currency": "USD",
+    "qty": 26,
+    "avgPrice": 134.242,
+    "currentPrice": 260.1,
+    "priceStatus": "live"
+  },
+  {
+    "id": "mnveja32ffvr",
+    "name": "알파벳A",
+    "ticker": "GOOGL",
+    "currency": "USD",
+    "qty": 3,
+    "avgPrice": 199.062,
+    "currentPrice": 321.31,
+    "priceStatus": "live"
+  },
+  {
+    "id": "mnvejv44sevu",
+    "name": "팔란티어",
+    "ticker": "PLTR",
+    "currency": "USD",
+    "qty": 4.56,
+    "avgPrice": 171.389,
+    "currentPrice": 136.46,
+    "priceStatus": "live"
+  }
+]

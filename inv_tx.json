@@ -1,0 +1,80 @@
+[
+  {
+    "id": "mnwm89ed7u9w",
+    "date": "2026-04-13",
+    "type": "buy",
+    "name": "TIME Korea플러스배당액티브",
+    "ticker": "441800",
+    "currency": "KRW",
+    "qty": 112,
+    "price": 27600,
+    "amount": 3091200,
+    "amountKrw": 3091200,
+    "reason": "초반 조정에 구매 결정, 2,500주 = 주당 100원 가정 25만원 완성"
+  },
+  {
+    "id": "mnwsrdatxxam",
+    "date": "2026-04-13",
+    "type": "buy",
+    "name": "에스앤에스텍",
+    "ticker": "101490",
+    "currency": "KRW",
+    "qty": 5,
+    "price": 94500,
+    "amount": 472500,
+    "amountKrw": 472500,
+    "reason": "일본 업체의 물량을 대체 / HBM 및 미래 HBF 개발에 따른 블랭크마스크 수요 탄탄할 것으로 예상"
+  },
+  {
+    "id": "mnxydahtxb3n",
+    "date": "2026-04-14",
+    "type": "sell",
+    "name": "SK하이닉스",
+    "ticker": "000660",
+    "currency": "KRW",
+    "qty": 12,
+    "price": 1099000,
+    "amount": 13188000,
+    "amountKrw": 13188000,
+    "reason": "신용 물량 정리"
+  },
+  {
+    "id": "mnxydp58wds3",
+    "date": "2026-04-14",
+    "type": "buy",
+    "name": "삼양식품",
+    "ticker": "003230",
+    "currency": "KRW",
+    "qty": 1,
+    "price": 1269000,
+    "amount": 1269000,
+    "amountKrw": 1269000,
+    "reason": "하락 시 매수"
+  },
+  {
+    "id": "mnztaub04e8g",
+    "date": "2026-04-15",
+    "type": "buy",
+    "name": "삼양식품",
+    "ticker": "003230",
+    "currency": "KRW",
+    "qty": 1,
+    "price": 1248000,
+    "amount": 1248000,
+    "amountKrw": 1248000,
+    "reason": "저평가 판단에 따른 조정 시 매수"
+  },
+  {
+    "id": "mo0yi2a49wxq",
+    "date": "2026-04-16",
+    "type": "buy",
+    "name": "에스앤에스텍",
+    "ticker": "101490",
+    "currency": "KRW",
+    "qty": 5,
+    "price": 99400,
+    "amount": 497000,
+    "amountKrw": 497000,
+    "reason": "유망종목 조정 시 추가매수"
+  }
+]
